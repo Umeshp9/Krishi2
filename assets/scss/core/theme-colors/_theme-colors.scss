@@ -4,7 +4,7 @@
     /*This is for the logo bg*/
     .topbar .top-navbar .navbar-header {
       &[data-logobg="skin6"] {
-        background: rgb(132, 233, 132);
+        background: #84e984;
         .navbar-brand {
           .dark-logo {
             display: inline;
@@ -30,6 +30,7 @@
       &[data-sidebarbg="skin6"] {
         background: $skin6;
         .sidebar-nav {
+          margin-top: 45px;
           ul {
             background: rgb(132, 233, 132);
             .sidebar-item {
