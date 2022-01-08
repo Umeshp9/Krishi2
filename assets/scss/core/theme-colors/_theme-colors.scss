@@ -5,6 +5,7 @@
     .topbar .top-navbar .navbar-header {
       &[data-logobg="skin6"] {
         background: #84e984;
+        height: 20px;
         .navbar-brand {
           .dark-logo {
             display: inline;
@@ -30,7 +31,7 @@
       &[data-sidebarbg="skin6"] {
         background: $skin6;
         .sidebar-nav {
-          margin-top: 45px;
+          margin-top: 51px;
           ul {
             background: rgb(132, 233, 132);
             .sidebar-item {
